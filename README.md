@@ -15,6 +15,7 @@
  1. [Github API](https://docs.github.com/en/rest)
  2. [Github Java API](https://github.com/hub4j/github-api)
  3. [Discord Java API](https://github.com/DV8FromTheWorld/JDA)
+ 4. [Github Personal Access token](https://github.com/settings/tokens)
 
  
 
@@ -22,6 +23,9 @@
 
 
 # Commands:
+
+Note: 
+You must have a valid Github Personal Access token to run the below commands
 
 ## /gitinit [Github Token] [RepoName] [RepoDescription]
 Create a repo via proving the GitHub Personal Access Token, name of the repo, and a short description of the repo
