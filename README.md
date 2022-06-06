@@ -48,3 +48,11 @@ See the commands doc
 
 # This CLI is Open-Source
 if you want to contribute/develope the new features feel free to do so! forking/git clone can get you started 
+
+# Run the bot local
+- Install IntellJ or open a new folder
+- Download/Git Clone this Repo, open this repo in IntellJ
+- Get your own discord token and create your own discord bot from Discord Developer's Portal
+Save 
+- Paste the token in String TOKEN variable
+- Run the project!
